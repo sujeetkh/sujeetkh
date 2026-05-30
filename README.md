@@ -16,7 +16,7 @@ I'm a Senior Data Engineer with 8+ years of experience in designing scalable dat
 
 ## 🛠️ Tech Stack
 
-**Data Infra**: Kafka · Apache Flink · Apache Beam · Dataflow  
+**Data Infra**: Kafka · Apache Spark · Apache Beam · Dataflow  
 **Transformation**: dbt · Dataform · SQL · Python  
 **Warehouses**: BigQuery · Snowflake · Redshift  
 **Orchestration**: Airflow · Cloud Composer · Prefect  
